@@ -1,6 +1,6 @@
 export const config = {
     backend: 'https://api.qijieya.cn/meting/',
-    proxy: 'https://mscdownload.legspcpd.asia/proxy?url=',
+    proxy: 'https://music.112133.xyz/proxy?url=',
 
     backends: {
         meting: {
@@ -69,13 +69,6 @@ export const config = {
     about: {
         version: '2026-10-05',
         content: `
-感谢使用本项目！如果有什么问题或者建议的新功能，您可以：
-
-- 加入MSCD用户QQ群：**1128651874**
-- 联系站长QQ：**409894128**
-
-站长主页：[Ena](https://enashpinal.pages.dev)
-项目地址：[ENA-QWQ/MSCD](https://github.com/ENA-QWQ/MSCD)
 
 ## 声明
 
