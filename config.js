@@ -69,7 +69,6 @@ export const config = {
     about: {
         version: '2026-10-05',
         content: `
-
 ## 声明
 
 - **本项目仅用于前端技术学习，严禁用于任何商业用途或大规模公开提供服务。**
